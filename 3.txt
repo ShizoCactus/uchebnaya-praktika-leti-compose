@@ -1,0 +1,5 @@
+2022-11-24 10:07:08.114	student2	2	second course	first course
+2022-11-24 10:07:08.114	student3	3	second course	first course
+2022-11-24 10:07:08.114	student4	4	second course	first course
+2022-11-24 10:07:08.114	student0	0	first course	second course
+2022-11-24 10:07:08.114	student1	1	first course	second course

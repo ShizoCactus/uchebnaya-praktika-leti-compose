@@ -1,0 +1,8 @@
+Курс first course заполнен на 66.66666666666667%
+На курсе будут учиться:
+	student1	student4
+
+Курс second course заполнен на 150.0%
+На курсе будут учиться:
+	student0	student2	student3
+
